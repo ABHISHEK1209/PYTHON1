@@ -7,8 +7,9 @@ num1=646
 
 num2=989
 
+num3=887
 
-sum=float(num1)+float(num2)
+sum=float(num1)+float(num2)+float(num3)
 
 
 print(sum)
