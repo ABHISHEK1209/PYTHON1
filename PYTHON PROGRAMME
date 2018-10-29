@@ -1,0 +1,14 @@
+# PYTHON1
+
+
+
+
+num1=646
+
+num2=989
+
+
+sum=float(num1)+float(num2)
+
+
+print(sum)
