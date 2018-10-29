@@ -9,7 +9,9 @@ num2=989
 
 num3=887
 
-sum=float(num1)+float(num2)+float(num3)
+num4=645
+
+sum=float(num1)+float(num2)+float(num3)+float(num4)
 
 
 print(sum)
